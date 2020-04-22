@@ -1,0 +1,11 @@
+.small-box {
+  width: 150px;
+  height: 150px;
+  float: left;
+  border: 2px solid black;
+  box-sizing: border-box;
+  text-align: center;
+}
+.in-box {
+  font-size: 600%;
+}

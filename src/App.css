@@ -1,0 +1,29 @@
+.heading {
+  font-style: italic;
+  font-size: 250%;
+  margin: 1% 40%;
+  color: blue;
+}
+.button {
+  font-size: 100%;
+  margin-left: 60%;
+  color: olivedrab;
+}
+.usage {
+  font-style: oblique;
+  color: #55450f8f;
+  font-size: 150%;
+  margin-left: 15%;
+}
+#winner {
+  font-style: oblique;
+  color: #3f0344c2;
+  margin-left: 40%;
+  font-size: 200%;
+}
+.main-box {
+  width: 500px;
+  height: 500px;
+  box-sizing: border-box;
+  margin: 1% 30%;
+}
